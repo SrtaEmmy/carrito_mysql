@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="loginVideo.gif" width="800"/>
+   <img src="carritoVideo.gif" width="800"/>
 </div>
 <br> 
 
