@@ -1,0 +1,32 @@
+.card-product{
+    background-color: rgb(229, 166, 144);
+    margin: 5px;
+    font-size: larger;
+}
+
+.bi-cart4{
+    font-size: 40px;
+}
+
+
+.centrado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.btn-bg{
+    background-color: rgb(229, 166, 144);
+    width: 300px;
+}
+
+.btn-bg:hover{
+    background-color: rgb(172, 119, 99);
+    color: white;
+    
+}
+
+.big{
+    font-size: 30px;
+}
