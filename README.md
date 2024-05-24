@@ -10,7 +10,7 @@
 
     
 <div/> 
- 
+  
 ### carrito con MySql y PHP
 ✅productos almacenados en bbdd
 ✅pedidos realizados se almacenan en bbdd
